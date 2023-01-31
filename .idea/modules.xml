@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kbeh.iml" filepath="$PROJECT_DIR$/.idea/kbeh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifier/notifier.iml" filepath="$PROJECT_DIR$/notifier/notifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifier-test/notifier-test.iml" filepath="$PROJECT_DIR$/notifier-test/notifier-test.iml" />
+    </modules>
+  </component>
+</project>
